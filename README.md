@@ -1,4 +1,4 @@
-# Dynamic Bandwidth Allocation for Online Learning (Python + Streamlit)
+# Dynamic Bandwidth Allocation for Online Learning Platforms (Python + Streamlit)
 
 This mini project simulates how to allocate a shared network capacity among multiple student video sessions using different algorithms.
 
